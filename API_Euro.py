@@ -14,6 +14,7 @@ def mostrar_euro(link):
 
 euro = mostrar_euro("https://economia.awesomeapi.com.br/last/EUR-BRL")
 
+#Tirando o account_sid e o token para preservar a conta
 account_sid = 'XXXX'
 token = 'YYYYY'
 
